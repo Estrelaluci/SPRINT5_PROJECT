@@ -1,0 +1,6 @@
+conda install -n vehicles_env plotly-express
+
+conda install -n vehicles_env streamlit
+
+
+conda install -n vehicles_env pandas
