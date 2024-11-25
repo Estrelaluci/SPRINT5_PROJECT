@@ -1,8 +1,5 @@
-conda install plotly-express
-
-conda install streamlit
-
-
-conda install pandas
+plotly-express
+streamlit
+pandas
 
 
